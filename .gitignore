@@ -1,6 +1,6 @@
 *.gem
 *.rbc
-/.config
+/.configUIApplicationDelegateClassName
 /coverage/
 /InstalledFiles
 /pkg/
