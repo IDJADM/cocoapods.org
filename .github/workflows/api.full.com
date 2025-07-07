@@ -1,1 +1,0 @@
-apifull.com
